@@ -1,5 +1,5 @@
 # Project Illithid
-
+https://www.youtube.com/watch?v=jXMd5aNIIoQ
 This is a Python project for using MindWave EEG Headset. This is based on Python2 code from https://github.com/faturita/python-mindwave, ported from Python2 to Python3 for convenience, with some fixes in the codebase as well. I used Faturita fork because it had support for reading waves directly from the headset, unlike the original BarkleyUS fork. 
 
 For this to work, you need to have suitable libraries installed (pyserial), and you need to have Mindwave bluetooth headset paired with your machine. You do not need to have separate connect/disconnect cycle with Mindwave Mobile.
